@@ -18,7 +18,7 @@ This Python script allows you to track your exercises using the Nutritionix API 
 
 ## Usage
 
-1. Run the script, and it will prompt you to input details about the exercise you did.
+1. Run the script, and it will prompt you to input details about the exercise you did (For eg: I ran for 20 minutes and cycled for 30 minutes).
 
 2. The script will use the Nutritionix API to analyze the exercise input and retrieve relevant data.
 
